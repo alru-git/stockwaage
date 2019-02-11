@@ -13,4 +13,6 @@ Genutzt Technologien:
 - Mysensors
 - Fhem
 
-Die Projektdokumentation ist unter /stockwaage/docs zu finden
+Inhalt:
+- /docs: Dokumentation des Projektes
+- /src: Code
