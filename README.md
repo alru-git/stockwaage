@@ -1,5 +1,8 @@
-# stockwaage
-Beehive level, mysensor, Fhem
+# Stockwaage
 
-Folgende Dateien sind im Repository zu finden:
+Sammlung aller Projekt-Dateien über die Stockwaage.
 
+Genutzt Technologien:
+Arduino, Mysensors, Fhem
+
+Die Projektdokumentation ist unter /docs zu finden
