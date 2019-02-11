@@ -1,5 +1,5 @@
 # Inhalt:
 
-- fotos: Alle Bauteilefotos
+- /fotos: Alle Bauteilefotos
 
-- wiring: Schaltpläne, erstellt mit EasyEDA https://easyeda.com/
+- /wiring: Schaltpläne, erstellt mit EasyEDA https://easyeda.com/
