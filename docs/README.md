@@ -2,4 +2,4 @@
 
 - /fotos: Alle Bauteilefotos
 
-- /wiring: Schaltpläne, inkl. Source File, erstellt mit EasyEDA https://easyeda.com/
+- /wiring: Schaltpläne (.pdf), inkl. Source Files (.json), erstellt mit EasyEDA https://easyeda.com/
