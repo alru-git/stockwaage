@@ -14,4 +14,3 @@ Genutzt Technologien:
 - Fhem
 
 Die Projektdokumentation ist unter /stockwaage/docs zu finden
-https://github.com/alru-git/stockwaage/tree/master/docs
