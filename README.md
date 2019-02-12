@@ -9,9 +9,9 @@ Die Stockwaage misst folgende Größen:
 - Spannungsversorgung (des Solarpanels)
 
 Genutzt Technologien:
-- Arduino https://store.arduino.cc/arduino-pro-mini
-- Mysensors https://www.mysensors.org/
-- Fhem https://fhem.de/
+- Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
+- Mysensors (Radio Gateway, https://www.mysensors.org/)
+- Fhem (Hausautomation Controller, https://fhem.de/)
 
 Inhalt:
 - /docs: Dokumentation des Projektes
