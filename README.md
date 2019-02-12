@@ -8,7 +8,7 @@ Die Stockwaage misst folgende Größen:
 - Luftfeuchtigkeit im Bienenstock
 - Spannungsversorgung (des Solarpanels)
 
-Genutzt Technologien:
+Genutzte Technologien:
 - Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
 - Mysensors (Radio Gateway, https://www.mysensors.org/)
 - Fhem (Hausautomation Controller, https://fhem.de/)
