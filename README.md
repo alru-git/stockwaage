@@ -6,7 +6,7 @@ Die Stockwaage misst folgende Größen:
 - Gewicht des Bienenstocks
 - Temperatur im Bienenstock
 - Luftfeuchtigkeit im Bienenstock
-- Spannungsversorgung (des Solarpanels)
+- Spannungsversorgung (Spg.-Ausgang des Solar-Ladereglers)
 
 Genutzte Technologien:
 - Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
