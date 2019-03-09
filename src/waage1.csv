@@ -1,0 +1,2 @@
+Datum,Gewicht[kg],Temperatur[°C],Luftfeuchte[%],Spannung[V],A-Temperatur[°C],A-Luftfeuchte[%],Luftdruck[hPa],Regen[l/m²],Wind[km/h],Windrichtung[°],Helligkeit[lux]
+2019/03/03 19:52,14.22,18.3,49,12.73,11.4,76,1002,0.0,29,235,0
