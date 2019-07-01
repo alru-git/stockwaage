@@ -1,9 +1,5 @@
 # Stockwaage
 
-(Projekt ist noch in Arbeit!!!)
-
-Sammlung aller Projekt-Dateien über die Stockwaage.
-
 Die Stockwaage misst folgende Größen:
 - Gewicht des Bienenstocks
 - Temperatur im Bienenstock
