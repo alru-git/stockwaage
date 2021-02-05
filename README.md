@@ -7,7 +7,7 @@ Die Stockwaage misst folgende Größen:
 - Spannungsversorgung (Spg.-Ausgang des Solar-Ladereglers)
 
 Die Daten des Prototypen sind hier online:
-https://www.alru.de/diagramme/waage1.php
+https://www.alru.de/bienen/stockwaage1_graph.php
 
 Genutzte Technologien:
 - Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
