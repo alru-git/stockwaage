@@ -10,7 +10,7 @@ Die Daten des Prototypen sind hier online:
 https://www.alru.de/bienen/stockwaage1_graph.php
 
 Genutzte Technologien:
-- Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
+- Arduino (Controller für die Sensoren, https://docs.arduino.cc/retired/boards/arduino-pro-mini)
 - Mysensors (Radio Gateway, https://www.mysensors.org/)
 - Fhem (Hausautomation Controller, https://fhem.de/)
 - Datenvisualisierung im Web, https://www.chartjs.org
