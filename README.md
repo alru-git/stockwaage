@@ -13,7 +13,7 @@ Genutzte Technologien:
 - Arduino (Controller für die Sensoren, https://store.arduino.cc/arduino-pro-mini)
 - Mysensors (Radio Gateway, https://www.mysensors.org/)
 - Fhem (Hausautomation Controller, https://fhem.de/)
-- Datenvisualisierung im Web, https://www.chartjs.org/
+- Datenvisualisierung im Web, https://www.chartjs.org
 
 Inhalt:
 - /docs: Dokumentation des Projektes
